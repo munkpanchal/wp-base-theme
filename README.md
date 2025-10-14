@@ -60,7 +60,7 @@ custom-theme/
 
 3. **Activate the Theme**
    - Go to WordPress Admin → Appearance → Themes
-   - Activate "Screen Interactive Solutions Website Theme"
+   - Activate "Custom Theme"
 
 4. **Configure WordPress**
    - Ensure permalinks are set to "Post name" or custom structure
@@ -254,7 +254,7 @@ For support and questions:
 - **Documentation**: Check this README and inline code comments
 - **Issues**: Report bugs via GitHub issues
 - **WordPress Forums**: Community support available
-- **Developer**: Contact Screen Interactive Solutions
+- **Community**: Join WordPress development communities
 
 ## 🔄 Changelog
 
@@ -278,6 +278,4 @@ For support and questions:
 
 ---
 
-**Built with ❤️ by Screen Interactive Solutions**
-
-For more information, visit [https://screetract.com](https://screetract.com)
+**Built with ❤️ for the WordPress community**
