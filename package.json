@@ -1,0 +1,24 @@
+{
+  "name": "wordpress-vite-theme",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "cross-env": "^7.0.3",
+    "vite": "^7.1.9",
+    "vite-plugin-live-reload": "^0.1.0"
+  },
+  "devServer": {
+    "headers": {
+      "Access-Control-Allow-Origin": "*"
+    }
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.14",
+    "tailwindcss": "^4.1.14"
+  }
+}
